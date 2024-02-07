@@ -93,7 +93,6 @@ _[Ss]cripts
 *.dot[Cc]over
 ######################
 !/SolutionItems/*.dll
-!/ApiEnvioAPC/DLLs/*.dll
 
 !/Scripts
 !/Scripts/bin
